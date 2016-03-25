@@ -3,6 +3,7 @@ import json
 import re
 import MySQLdb
 import time
+
 DB_USER = "USERNAME"
 DB_PW = "PASSWORD"
 DB_NAME = "weather"
