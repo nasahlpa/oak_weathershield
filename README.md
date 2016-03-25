@@ -32,3 +32,8 @@ Modifications:
 
 # Images
 ![screenshot](/doc/screenshot.png)
+
+# To Do
+* allow to change diagram range at the page
+* prettify webpage
+* convert light sensor data to candela
